@@ -1,0 +1,7 @@
+server: smtp.example.com
+login:
+    username: bobleponge@example.com
+    password: 1234567890123456
+buy_prices:
+    btc: 10
+    eth: 1
