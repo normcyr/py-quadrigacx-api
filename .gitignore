@@ -1,3 +1,4 @@
+venv/
 config.yml
 last_sell.csv
 __pycache__*
